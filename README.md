@@ -1,2 +1,2 @@
 # IP_basic
-Image Processing using Python
+Image Processing using Opencv
